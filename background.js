@@ -1,7 +1,6 @@
 
 chrome.contextMenus.create({
-	"title": "Remove",
-	"id": "Removestuff",
+	"title": "Remove element",
 	"contexts": ["all"]
 })
 
