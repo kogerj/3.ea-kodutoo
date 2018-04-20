@@ -1,8 +1,8 @@
   {
     "name": "ElementRemover",
-    "version": "1.0",
-    "description": "me teame et sa vaatad Romil ;)",
-	"permissions": ["activeTab", "declarativeContent", "contextMenus"],
+    "version": "1.3",
+    "description": "For removing elements that block your browsing experience. For example login prompts on LinkedIn or Pinterest. Me teame et sa vaatad Romil ;)",
+	"permissions": [ "contextMenus"],
 	"background": {
       "scripts": ["background.js"],
       "persistent": true
