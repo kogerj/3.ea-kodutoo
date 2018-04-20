@@ -1,5 +1,20 @@
 # 3. kodutöö – Chrome extension
 
+Meie extension toimub praegusel hethel ainult Chromis ja annab võimaluse nautida netis surfamist 
+ilma sind blokeeriva või segava reklaamita.
+Extension lubab kustutada lehelt HTML elementid kahe võimalusega:
+
+1. Vajutades hiire parema klahvi peale ja valides "Remove element" nuppu.
+2. Hoides kursorit elemendi peal ja vajutades Alt+Q kombinatsiiooni.
+
+Vajutades Alt+W kombinatsiooni kustutatud element taastatakse.
+Lisatud võimalus lehel alla kerida pärast elementi kustutamisest, isegi kui see tegevus oli algselt lehel keelatud.
+Extensioni ikooni vajutamisel Chrome toolbaaris ilmub selgitus, kuidas saab extensionit kasutada.
+
+
+Autorid: Tim Jaanson ja Jaroslava Koger 
+
+
 Kodutööna peab looma Chrome extension'i selliselt, et nõuded oleksid täidetud. Soovi korral võib ka teha Firefox'ile.
 
 **Töö on soovitatav teha kahekesi!**
